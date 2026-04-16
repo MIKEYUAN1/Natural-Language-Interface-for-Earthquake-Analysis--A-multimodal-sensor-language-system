@@ -46,6 +46,7 @@ This repository is intended to provide the core experimental code, notebooks, an
 Dataset available on Hugging Face: https://huggingface.co/datasets/MIKEYUAN1/eqlm-earthquake-reports
 
 ## Authors
-- **Abir Hasan Bhuiyan**
 - **Linxuan Yuan**
+- **Abir Hasan Bhuiyan**
+
   
