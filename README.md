@@ -10,5 +10,7 @@ This repository contains the core code for our project:
 - `generation_metrics_cell.py`: evaluation code for SGS, completeness, ROUGE-L, and BERTScore
 - 
 
+
 ## Notes
 Large raw datasets and checkpoints are not included in this repository.
+Dataset available on Hugging Face: https://huggingface.co/datasets/MIKEYUAN1/eqlm-earthquake-reports
