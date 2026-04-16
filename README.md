@@ -14,7 +14,7 @@ The training pipeline consists of two stages:
 2. Instruction-tuned generation, which generates structured earthquake reports from waveform-conditioned prefix representations
 
 ## Repository Structure
-### `notebooks/`
+### `notebook/`
 Main experimental notebooks for different projector architectures:
 - `eqlm-cnn-projector.ipynb` — CNN projector experiment
 - `eqlm-moe-projector.ipynb` — MoE projector experiment
