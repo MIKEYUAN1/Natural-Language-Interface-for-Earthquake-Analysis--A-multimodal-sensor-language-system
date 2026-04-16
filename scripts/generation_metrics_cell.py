@@ -1,6 +1,3 @@
-# ==========================================
-# GENERATION EVALUATION: SGS + COMPLETENESS + ROUGE-L + BERTScore
-# ==========================================
 import re
 import math
 import pandas as pd
