@@ -1,4 +1,4 @@
-# Natural Language Interface for Earthquake Analysis: A multimodal sensor-language system**
+# Natural Language Interface for Earthquake Analysis: A multimodal sensor-language system
 Natural Language Interface for Earthquake Analysis- A multimodal sensor-language system for project in group 3.
 This project proposes EQLM (Earthquake Large Language Model), a multimodal seismic-to-language framework that translates three-component seismic waveforms into natural-language earthquake reports.
 This repository contains the core code for our project:
@@ -14,7 +14,7 @@ The training pipeline consists of two stages:
 2. Instruction-tuned generation, which generates structured earthquake reports from waveform-conditioned prefix representations
 
 ## Repository Structure
-### `notbooks/`
+### `notebooks/`
 Main experimental notebooks for different projector architectures:
 - `eqlm-cnn-projector.ipynb` — CNN projector experiment
 - `eqlm-moe-projector.ipynb` — MoE projector experiment
